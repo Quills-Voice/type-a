@@ -1,7 +1,29 @@
 /* Your Website Styles */
 
 
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+
+body {
+	font-family: 'Raleway', sans-serif;
+	color: #FF8591;
+	background-image: url(../img/seamless_paper_texture.png);
+}
+
+img {
+	width: 490px;
+	height: 500px;
+}
+
+
+
+h1 {
+	color: #44878F;
+}
+
+h3 {
+	text-align: center;
+	color: #44878F;
+}
+
+p {
+	text-align: justify;
 }
